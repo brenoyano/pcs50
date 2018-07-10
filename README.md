@@ -10,3 +10,9 @@
 6. Then run one of the following commands:
 7. source ~/.bash_aliases or source ~/.bashrc
 
+* Install Django and Flask
+1. To ensure you are installing the lib on the correct python version type: *sudo usr/bin/pythonVERSION_NUMBER -m pip install package*
+2. In this case i'm using python version 3.6 so:
+3. sudo usr/bin/python3.6 -m pip install Django
+4. sudo usr/bin/python3.6 -m pip install flask
+
